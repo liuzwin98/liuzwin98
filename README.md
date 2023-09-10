@@ -14,22 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
-## Hello 👋, My name is Zhen Liu.
 
-I'm who
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zhen Liu</h2>
 
 #### About Me
+💡 &nbsp; I enjoy exploring new technologies and knowledge and coding. \
+🎓 &nbsp; I hold a master's degree in computer technology and have rich research experience in image and video understanding. \
+🌱 &nbsp; I am always prepared to embrace challenges as opportunities to strengthen my skills. \
+❤️ &nbsp; In my free time, I like to play basketball, video games, and write [blogs](https://blog.csdn.net/liuz_notes). \
+✉️ &nbsp; You can shoot me an email at liuzwin98@gmail.com! I'll try to respond as soon as I can.\
+💬 &nbsp; [Message Board](https://github.com/liuzwin98/liuzwin98/issues) :)
+<!-- Please have a look at my [website](https://liuzwin98.github.io) for more details about me.-->  
 
-- 💼 I'm a computer vision researcher and developer. My research interests include xxxx, etc.
-
-- 📈 I'm 
-
-- ❤️ I love 
-
-- 💬 Ask me about anything [here](https://github.com/liuzwin98/liuzwin98/issues) :)
 
 #### Languages
 
