@@ -18,13 +18,16 @@
 
 #### 🛠 &nbsp;Skills
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,matlab,pytorch,linux,git,ai&theme=light)](https://skillicons.dev) 
-<img height="42" width="42" src="https://cdn.simpleicons.org/latex" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/latex" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/markdown" />
 
+
+<!--
 #### 📈 &nbsp;GitHub Analytics
 
 | <a href="https://github.com/liuzwin98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liuzwin98&show_icons=true&include_all_commits=true&hide_border=true" alt="Zhen Liu's github stats" /></a> | <a href="https://github.com/liuzwin98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuzwin98&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+-->
 
 
 <!-- 
