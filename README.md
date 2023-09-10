@@ -13,11 +13,21 @@
 
 #### 🛠 &nbsp;Skills
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,matlab,pytorch,linux,git,ai&theme=light)](https://skillicons.dev)
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
 
 #### 📈 &nbsp;GitHub Analytics
 
 | <a href="https://github.com/liuzwin98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liuzwin98&show_icons=true&include_all_commits=true&hide_border=true" alt="Zhen Liu's github stats" /></a> | <a href="https://github.com/liuzwin98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuzwin98&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 
 <!-- 
