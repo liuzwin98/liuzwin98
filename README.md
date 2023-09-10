@@ -10,6 +10,7 @@
 - 💬 &nbsp;[Message Board](https://github.com/liuzwin98/liuzwin98/issues) :)
 <!-- Please have a look at my [website](https://liuzwin98.github.io) for more details about me.-->  
 
+<br />
 
 #### 🛠 &nbsp;Skills
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,matlab,pytorch,linux,git,ai&theme=light)](https://skillicons.dev) 
@@ -31,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuzwin98&repo=xxxx" />
 </a>  -->
 
-<br />
+
 <br />
 
 Thanks for your visit!
