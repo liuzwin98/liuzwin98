@@ -2,7 +2,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zhen Liu</h2>
 
 #### 👨🏻‍💻 &nbsp;About Me
-- 💡  &nbsp;I enjoy exploring new technologies and knowledge and coding. 
+- 💡 &nbsp;&nbsp;I enjoy exploring new technologies and knowledge and coding. 
 - 🎓 &nbsp;I hold a master's degree in computer technology and have rich research experience in image and video understanding. 
 - 🌱 &nbsp;I am always prepared to embrace challenges as opportunities to strengthen my skills. 
 - ❤️ &nbsp;In my free time, I like to play basketball, video games, and write [blogs](https://blog.csdn.net/liuz_notes). 
