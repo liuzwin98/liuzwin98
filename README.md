@@ -1,6 +1,5 @@
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zhen Liu</h2>
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
 #### 👨🏻‍💻 &nbsp;About Me
 - 💡 &nbsp;&nbsp;I enjoy exploring new technologies and knowledge and coding. 
 - 🎓 &nbsp;I hold a master's degree in computer technology and have rich research experience in image and video understanding. 
