@@ -36,5 +36,5 @@
 
 Thanks for your visit!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=liuzwin98&label=Profile%20views&color=0e75b6&style=flat)
 
