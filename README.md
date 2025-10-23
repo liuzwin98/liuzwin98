@@ -36,4 +36,5 @@
 
 Thanks for your visit!
 
-![](http://profile-counter.glitch.me/liuzwin98/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+
